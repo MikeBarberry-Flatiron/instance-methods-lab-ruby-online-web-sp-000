@@ -8,4 +8,4 @@ class Person
   end
 end
 
-person.walk 
+Person.walk 
