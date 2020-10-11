@@ -8,4 +8,6 @@ class Person
   end
 end
 
-Person.walk 
+ida = Person.new
+
+ida.walk
